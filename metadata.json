@@ -1,0 +1,6 @@
+{
+  "name": "Алиса AI — Live2D Concept & Rigging Studio",
+  "description": "Интерактивная арт-дирекшн студия разработки 2.5D Live2D VTuber-модели голосового ассистента Алиса AI: 5 концепт-макетов, палитры, оценка риггинга и тест 2.5D-параметров.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
